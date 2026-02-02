@@ -9,6 +9,7 @@ Desarrollar un CRM integral para restaurantes que gestione el flujo completo de 
 - **Frontend**: React 19 + Vite + Tailwind CSS v4 (Completado)
 - **Base de Datos/Backend**: Appwrite (Configuración finalizada, migración completa)
 - **Lógica de Datos**: `DatabaseService` conectado a Appwrite Cloud (Activo)
+- **Repositorio**: [GitHub - restocrm-pro](https://github.com/bartosky1984/restocrm-pro)
 
 ---
 
