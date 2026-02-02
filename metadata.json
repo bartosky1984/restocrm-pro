@@ -1,0 +1,8 @@
+
+{
+  "name": "RestoCRM Pro",
+  "description": "Un sistema integral de gestión para restaurantes que incluye control de pedidos, menú, clientes (CRM), tablero de cocina (KDS), cupones y analítica avanzada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
